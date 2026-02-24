@@ -5,7 +5,7 @@
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=ameghmurikkoli9&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </p>
-### 🚀 About Me
+### 🚀 About Me </br>
 - 🔭 Building modern interactive web experiences
 - 🌱 Currently mastering advanced React & animations
 - 💬 Curious about animations, clean code, and scalable frontend? I’m your guy
